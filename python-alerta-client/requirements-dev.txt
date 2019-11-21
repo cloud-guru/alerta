@@ -1,0 +1,6 @@
+mypy==0.620
+pre-commit
+pytest
+pytest-cov
+requests_mock
+twine

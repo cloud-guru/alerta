@@ -1,0 +1,7 @@
+mypy==0.620
+pre-commit
+pytest
+pytest-cov
+python-dotenv
+requests_mock
+twine
